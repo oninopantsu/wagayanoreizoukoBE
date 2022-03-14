@@ -1,5 +1,6 @@
 export type {
     ResultSetHeader,
     QueryError,
-    FieldPacket
+    FieldPacket,
+    RowDataPacket
 } from 'mysql2';
